@@ -29,29 +29,25 @@
         android:layout_height="wrap_content"
         android:checkedButton="@+id/radio_button_no_tip"
         android:baselineAligned="false"
-        android:gravity="center_vertical|center_horizontal">
+        android:orientation="vertical">
 
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/radio_button_15_pct"
-            android:id="@+id/radio_button_15_pct"
-            android:layout_marginTop="20dp" />
+            android:id="@+id/radio_button_15_pct" />
 
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/radio_button_20_pct"
-            android:id="@+id/radio_button_20_pct"
-            android:layout_marginTop="20dp"
-            android:layout_gravity="center_horizontal" />
+            android:id="@+id/radio_button_20_pct" />
 
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/radio_button_no_tip"
-            android:id="@id/radio_button_no_tip"
-            android:layout_marginTop="20dp" />
+            android:id="@id/radio_button_no_tip" />
     </RadioGroup>
 
     <FrameLayout
