@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SwirlingColors</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_view_salutation">Calculate the tip</string>
+    <string name="edit_text_amount_hint">Check Amount</string>
+    <string name="button_calculate">Calculate this for my waiter</string>
+    <string name="radio_button_15_pct">15% </string>
+    <string name="radio_button_20_pct">20%</string>
+    <string name="radio_button_no_tip">No tip</string>
+    <string name="title_activity_show_tip">ShowTipActivity</string>
+
+</resources>
